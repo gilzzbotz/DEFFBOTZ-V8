@@ -45,7 +45,7 @@ await sleep(5000)
 console.clear() 
 console.log(color(`█████████████████████████\n█▄─▄▄▀█▄─▄▄─█▄─▄▄─█▄─▄▄─█\n██─██─██─▄█▀██─▄████─▄███\n▀▄▄▄▄▀▀▄▄▄▄▄▀▄▄▄▀▀▀▄▄▄▀▀▀`)) 
 const users = [
-		{Creator: 'DEFF', Whatsapp: 6289501060783, NameBot: global.namebot, Versi: 7 }
+		{Creator: 'Gilzz', Whatsapp: 6281241056195, NameBot: global.namebot, Versi: 7 }
 		];
 		console.table(users)
 
